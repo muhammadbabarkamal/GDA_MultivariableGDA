@@ -1,2 +1,2 @@
 # GDA_MultivariableGDA
-Machine learning Algorithms Implementation of Multi-variable Gradient Decent Algorithm
+Implementation of Multi-variable Gradient Decent Algorithm and Normal Equation In Machine Learning
